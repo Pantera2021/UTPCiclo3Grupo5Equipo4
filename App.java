@@ -10,7 +10,6 @@ public class App {
         cafe[4]=new Cafe(550.0, 20, 'D'); 
         PrecioTotal solucion1 = new PrecioTotal(cafe); 
         solucion1.mostrarTotales();
-    //  Comentario de prueba para activa control de cambios 
     // Prueba 2
     //Cafe cafe2[]=new Cafe[10]; 
     //cafe2[0]=new Cafe(250.0, 50, 'D'); 
