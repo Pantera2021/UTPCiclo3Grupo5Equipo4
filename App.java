@@ -11,8 +11,6 @@ public class App {
         PrecioTotal solucion1 = new PrecioTotal(cafe); 
         solucion1.mostrarTotales();
 
-        // Comentario para habilitar seguimiento
-
         // Prueba 2
     //Cafe cafe2[]=new Cafe[10]; 
     //cafe2[0]=new Cafe(250.0, 50, 'D'); 
